@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>邦邦</title>
+    <link>https://adooper.github.io/</link>
+    <description>Recent content on 邦邦</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Wed, 28 Apr 2021 10:29:18 +0800</lastBuildDate><atom:link href="https://adooper.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A</title>
+      <link>https://adooper.github.io/news/a/</link>
+      <pubDate>Wed, 28 Apr 2021 10:29:18 +0800</pubDate>
+      
+      <guid>https://adooper.github.io/news/a/</guid>
+      <description>this is a first news!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://adooper.github.io/about/</link>
+      <pubDate>Wed, 28 Apr 2021 01:21:18 +0000</pubDate>
+      
+      <guid>https://adooper.github.io/about/</guid>
+      <description>bangbang 中文名称：邦邦 愿景：精益不是口号 精益是规则与自然行为的统一 使命：帮助更多中小精益企业更成功 价值观：一次把事情做对  Adoop:由 a do op 三个简单的词组成，旨在传递一次把事情做对的价值观。 Adooper:精益实践者  精益之路 20年的精益实践之路，任职不同工作岗位、参与不同项目，大致可为三个阶段。 每一个阶段都面临着不同的实际问题，有着不同的关注点，使得我可以从不同的层面、不同角度来学习、理解、实践精益。 解决问题的过程，就是思维模型与结构的代谢。
+1. 精益生产  2001年 婴童产品线新工厂筹建  规划、选址、布局、设备选型、设备安装/调试 产品试样、修改、试产、确定、投产 生产流程、生产工艺 生产人员规划、培训 主要关注点是产能的复制、单元布局优、及如何做好一件产品。   2002年 品质提升  贯彻ISO标准体系 TQM：品质检验、品质工程、品质保证、品质圈 精益活动：5S、目视管理、快速换模、一岗多能、设备保全等 主要关注点效率与质量、及如何做好每一批产品。   2003年 降本增效  人均产值提升 二班制 设备布局、机器换人、工装夹具 工时/工价管理 工序路径、作业方法、动作与劳动强度优化等 单件流 主要关注点是产值、人均产值，开始思考如何赢利。   2005年 准时交付  生产与计划模式协同 生产单元柔性化：装配线多品种并行作业 物料齐套管理 计划工具表单 主要关注点是缩短交期。    2. 精益管理  2008年 物流/仓储管理  仓储系统：5000平方仓储、拣货、配送一体化服装立体物流仓 分拣系统：条码(收、发、存、盘)、Andon拣货系统   2012年 精益思想 从精益生产实践活动到精益管理的认知转变，是整个精益思想的蜕变，开始思考精益潜力如何充分发掘，精益改善活动可持续性，精益的原点与完美状态等：  精益愿景：首先是愿景，然后才是精益工具。从愿景出发到达终点是愿景，从工具出发的的天花板是工具。 精益行为自然化：从精益规则，转化为每个人每天不需要被告知而自然要做出的行为，一直遵守建立的规则，最重要的行为是，各个层级领导都要是老师，持续强化对原则和工具的正确使用，通过自身垂范和日常管理。 精益改善：改善三层级 精益可持续：激励。    3.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://adooper.github.io/projects/</link>
+      <pubDate>Wed, 28 Apr 2021 08:48:46 +0800</pubDate>
+      
+      <guid>https://adooper.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://adooper.github.io/contact/</link>
+      <pubDate>Wed, 28 Apr 2021 08:47:20 +0800</pubDate>
+      
+      <guid>https://adooper.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo中文帮助</title>
+      <link>https://adooper.github.io/posts/hugodemo/</link>
+      <pubDate>Wed, 28 Apr 2021 08:29:38 +0800</pubDate>
+      
+      <guid>https://adooper.github.io/posts/hugodemo/</guid>
+      <description>1. 安装Hugo 2. 创建站点 3. 新建页面和文章 新建一个about页面 hugo new about.md
+创建第一篇文章，放到post目录 hugo new post/myfirst.md
+4. 安装主题 到 Hugo 主题列表 或从 Github 下载一款主题，解压到 theme 目录下： 通过命令行的方式使用主题：hugo -t 主题目录名 通过在 config.toml 配置使用：theme = &amp;quot;主题目录名&amp;quot;
+5. 编译输出（构建 Hugo 网站） 在 Hugo 网站文件夹的根目录下，执行 hugo 命令来构建。 hugo 编译输出的静态 HTML 文件，默认会保存到 public 目录。
+6. 启动实时预览（本地预览网站效果） 写一篇文章生成一次会很繁琐，可以通过启动网站预览，实时监控页面的更改并刷新页面。 hugo server -D 参数： -D 输出包括标记为 draft: true 的草稿文章 默认地址为 http://localhost:1313 如果 1313 端口被占用，会随机使用其他空端口。
+7. github git init git add --all git commit -m &amp;quot;first commit&amp;quot; git branch -M main git remote add origin https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

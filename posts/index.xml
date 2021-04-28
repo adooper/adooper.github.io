@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 邦邦</title>
+    <link>https://adooper.github.io/posts/</link>
+    <description>Recent content in Posts on 邦邦</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Wed, 28 Apr 2021 08:29:38 +0800</lastBuildDate><atom:link href="https://adooper.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo中文帮助</title>
+      <link>https://adooper.github.io/posts/hugodemo/</link>
+      <pubDate>Wed, 28 Apr 2021 08:29:38 +0800</pubDate>
+      
+      <guid>https://adooper.github.io/posts/hugodemo/</guid>
+      <description>1. 安装Hugo 2. 创建站点 3. 新建页面和文章 新建一个about页面 hugo new about.md
+创建第一篇文章，放到post目录 hugo new post/myfirst.md
+4. 安装主题 到 Hugo 主题列表 或从 Github 下载一款主题，解压到 theme 目录下： 通过命令行的方式使用主题：hugo -t 主题目录名 通过在 config.toml 配置使用：theme = &amp;quot;主题目录名&amp;quot;
+5. 编译输出（构建 Hugo 网站） 在 Hugo 网站文件夹的根目录下，执行 hugo 命令来构建。 hugo 编译输出的静态 HTML 文件，默认会保存到 public 目录。
+6. 启动实时预览（本地预览网站效果） 写一篇文章生成一次会很繁琐，可以通过启动网站预览，实时监控页面的更改并刷新页面。 hugo server -D 参数： -D 输出包括标记为 draft: true 的草稿文章 默认地址为 http://localhost:1313 如果 1313 端口被占用，会随机使用其他空端口。
+7. github git init git add --all git commit -m &amp;quot;first commit&amp;quot; git branch -M main git remote add origin https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
